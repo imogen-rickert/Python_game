@@ -1,6 +1,7 @@
 # HANGMAN
 
 Data Analytics, August 2020, Berlin
+
 Imogen Rickert 
 
 ## Content
