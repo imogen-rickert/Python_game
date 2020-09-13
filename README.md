@@ -1,4 +1,4 @@
-# HANGMAN
+# Hangman game (Python)
 
 Data Analytics, August 2020, Berlin
 
@@ -11,7 +11,7 @@ Imogen Rickert
 - [Organisation](#organisation)
 
 ## Game Description
-I created a hangman game where the user has to guess a country chosen by the computer. 
+I created a hangman game on Python where the user has to guess a country chosen by the computer. 
 
 ## Rules
 The computer randomly selects a country. The user has to try to guess the country, one letter at a time. 
